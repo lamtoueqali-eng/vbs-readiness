@@ -67,7 +67,7 @@ The scanner is free and works on its own.
 If you would rather not convert the scripts yourself:
 
 - **Automatic converter** (pay per use): [VBScript to PowerShell on Apify](https://apify.com/ali-lamtoueq/vbscript-to-powershell)
-- **Done-for-you conversion** with clean, commented scripts and a deployment guide: [open an issue](../../issues/new) and say how many scripts you have.
+- **Done-for-you conversion** with clean, commented scripts and a deployment guide: [order on Fiverr](https://www.fiverr.com/aloua36/audit-and-convert-your-vbscript-to-powershell-before-windows-disables-it) (from $40), or [open an issue](../../issues/new) and say how many scripts you have.
 
 ## FAQ
 
